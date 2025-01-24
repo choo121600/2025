@@ -10,3 +10,4 @@
 - 금융공학
 - Apache Airflow 스터디
   - [ ] Data Pipelines with Apache Airflow
+- PostgreSQL 스터디
